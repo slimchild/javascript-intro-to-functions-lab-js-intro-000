@@ -9,7 +9,7 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if 
+  if
   console.log ("I can't hear you!")
 
 }
