@@ -8,9 +8,9 @@ function whisper(string) {
 
 }
 
-function sayHiToGrandma(string) {
-  var lowercase = string.toLowercase()
-    if lowercase = string
+function sayHiToGrandma(string) { //defining function, parameter is string
+  var lowercase = string.toLowercase(); //define variable to hold lower version of string
+      if (lowercase === string){
   console.log() "I can't hear you!"
-
+}
 }
