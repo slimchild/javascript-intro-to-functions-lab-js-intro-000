@@ -9,7 +9,7 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-if (string.toUpperCase === string) = true
+if string.toUpperCase() === string = true
 
    return "I can't hear you!"
 
