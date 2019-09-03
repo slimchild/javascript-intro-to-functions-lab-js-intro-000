@@ -12,6 +12,11 @@ function whisper(string) {
 
 }
 
+function logWhisper(string) {
+  console.log(whisper (string));
+
+}
+
 function sayHiToGrandma(string) { //defining function, parameter is string
   var lowercase = string.toLowerCase(); //define variable to hold lower version of string
   var uppercase = string.toUpperCase();
