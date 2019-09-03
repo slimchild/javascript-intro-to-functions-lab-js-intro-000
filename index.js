@@ -4,7 +4,7 @@ function shout(string) {
 }
 
 function logShout(string){
-  
+
 }
 
 function whisper(string) {
